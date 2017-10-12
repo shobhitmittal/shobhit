@@ -1,0 +1,5 @@
+*.pyc
+*.orig
+*.zip
+*.log
+*.sqlite3
